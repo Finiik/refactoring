@@ -1,0 +1,19 @@
+cmake_minimum_required(VERSION 3.10)
+project(LogConTests)
+
+# Використання C++17
+set(CMAKE_CXX_STANDARD 17)
+
+# Додаємо Google Test
+enable_testing()
+add_subdirectory(googletest)
+
+# Основний вихідний код
+add_library(LogCon LogCon.cpp)
+
+# Файл з тестами
+add_executable(runTests test_logcon.cpp)
+target_link_libraries(runTests PRIVATE LogCon gtest gtest_main)
+
+include(GoogleTest)
+gtest_discover_tests(runTests)

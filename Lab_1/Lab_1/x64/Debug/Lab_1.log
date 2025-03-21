@@ -1,0 +1,7 @@
+﻿  Lab_1.cpp
+  LogCon.cpp
+  LogCon.h
+  Running Code Analysis for C/C++...
+  Generating Code...
+x64\Debug\LogCon.obj : warning LNK4042: object specified more than once; extras ignored
+  Lab_1.vcxproj -> C:\Users\Finik\Desktop\uni_labs\Labs_3_course_2\Refactoring\Lab_1\x64\Debug\Lab_1.exe

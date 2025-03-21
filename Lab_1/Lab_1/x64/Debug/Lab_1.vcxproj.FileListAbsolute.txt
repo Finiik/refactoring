@@ -1,0 +1,2 @@
+C:\Users\Finik\Desktop\uni_labs\Labs_3_course_2\Refactoring\Lab_1\x64\Debug\Lab_1.exe.lastcodeanalysissucceeded
+C:\Users\Finik\Desktop\uni_labs\Labs_3_course_2\Refactoring\Lab_1\Lab_1\x64\Debug\NativeCodeAnalysis.read.1.tlog
